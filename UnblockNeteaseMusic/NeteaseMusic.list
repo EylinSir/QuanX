@@ -10,6 +10,12 @@
 # REJECT：4
 # TOTAL: 69
 
+# REJECT
+HOST,admusicpic.music.126.net,REJECT
+HOST,iadmat.nosdn.127.net,REJECT
+HOST,iadmusicmat.music.126.net,REJECT
+HOST,iadmusicmatvideo.music.126.net,REJECT
+
 # USER-AGENT
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90**,网易云音乐
 USER-AGENT,%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%90*,网易云音乐
@@ -85,8 +91,4 @@ IP-CIDR,193.112.159.225/32,网易云音乐
 IP-CIDR,223.252.199.66/32,网易云音乐
 IP-CIDR,223.252.199.67/32,网易云音乐
 
-# REJECT
-HOST,admusicpic.music.126.net,REJECT
-HOST,iadmat.nosdn.127.net,REJECT
-HOST,iadmusicmat.music.126.net,REJECT
-HOST,iadmusicmatvideo.music.126.net,REJECT
+
