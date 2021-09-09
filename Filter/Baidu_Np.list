@@ -1,14 +1,7 @@
-HOST, boxer.baidu.com,REJECT
-HOST, miao.baidu.com,REJECT
-HOST, ada.baidu.com, REJECT
-HOST, ext.baidu.com, REJECT
-HOST, entry.baidu.com,REJECT
-HOST, ug.baidu.com,REJECT
-HOST, eopa.baidu.com,REJECT
-HOST, boxer.baidu.com,REJECT
-HOST, miao.baidu.com,REJECT
-HOST, ada.baidu.com,REJECT
-HOST, ext.baidu.com,REJECT
-HOST, entry.baidu.com,REJECT
-HOST, ug.baidu.com,REJECT
-HOST, eopa.baidu.com,REJECT
+HOST,boxer.baidu.com,REJECT
+HOST,miao.baidu.com,REJECT
+HOST,ada.baidu.com,REJECT
+HOST,ext.baidu.com,REJECT
+HOST,entry.baidu.com,REJECT
+HOST,ug.baidu.com,REJECT
+HOST,eopa.baidu.com,REJECT
