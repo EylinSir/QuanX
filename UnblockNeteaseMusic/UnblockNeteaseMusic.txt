@@ -1,5 +1,5 @@
 proxies:
-  - {name: 🎧 自用, server: uk.elhome.top, port: 4433, type: https, tls: false, skip-cert-verify: false}
+  - {name: 🎧 自用, server: uk.elhome.top, port: 4433, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 1, server: LOLICO.ME, port: 443, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 2, server: AIMER.ONE, port: 23333, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 3, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
