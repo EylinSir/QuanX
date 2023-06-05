@@ -1,6 +1,6 @@
 proxies:
   - {name: 🎧 网易音乐, server: elhome.top, port: 52001, type: http, tls: false, skip-cert-verify: false}
-  - {name: 🎧 网易音乐 1, server: uk.elhome.top, port: 4433, type: https, tls: false, skip-cert-verify: false}
+  - {name: 🎧 网易音乐 1, server: elhome.top, port: 44333, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 2, server: AIMER.ONE, port: 23333, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 3, server: SALVAN.ICU, port: 19980, type: http, tls: false, skip-cert-verify: false}
   - {name: 🎧 网易音乐 4, server: 34.92.129.82, port: 2021, type: http, tls: false, skip-cert-verify: false}
